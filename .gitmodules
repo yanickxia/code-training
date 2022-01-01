@@ -1,0 +1,6 @@
+[submodule "leetcode"]
+	path = leetcode
+	url = git@github.com:yanickxia/leetcode.git
+[submodule "code-war-rust-training"]
+	path = code-war-rust-training
+	url = git@github.com:yanickxia/code-war-rust-training.git
